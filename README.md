@@ -11,7 +11,7 @@ Simply add a dependency on dlintin/zipstream-php to your project's composer.json
 ```json
 {
     "require": {
-        "dlintin/zipstream-php": "0.1.*"
+        "dlintin/zipstream-php": "0.1.1"
     }
 }
 ```
